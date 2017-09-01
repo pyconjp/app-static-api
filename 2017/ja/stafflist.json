@@ -1,0 +1,340 @@
+{
+  "staffList": [
+    {
+      "team": "座長",
+      "name": "吉田 俊輔",
+      "title": "座長",
+      "twitter": "https://twitter.com/koedoyoshida",
+      "facebook": "https://www.facebook.com/koedoyoshida"
+    },
+    {
+      "team": "プログラム",
+      "name": "齋藤 大輔",
+      "title": "副座長(プログラム)",
+      "twitter": "https://twitter.com/PCShop_kabu",
+      "facebook": "https://www.facebook.com/ds110.sai"
+    },
+    {
+      "team": "事務局",
+      "name": "木村 真",
+      "title": "副座長(事務局),Web, Sponsor,Contentsまとめ",
+      "twitter": "https://twitter.com/mktkmr4",
+      "facebook": "https://www.facebook.com/makoto.kimura.9406"
+    },
+    {
+      "team": "事務局",
+      "name": "寺田 学",
+      "title": "",
+      "twitter": "https://twitter.com/terapyon",
+      "facebook": "https://www.facebook.com/terapyon"
+    },
+    {
+      "team": "プログラム・セッション",
+      "name": "谷口 英",
+      "title": "プログラム・セッション leader",
+      "twitter": "https://twitter.com/horobi_gengar",
+      "facebook": ""
+    },
+    {
+      "team": "プログラム・セッション",
+      "name": "ペンコフミハイル",
+      "title": "翻訳・通訳",
+      "twitter": "https://twitter.com/mpenkov",
+      "facebook": "https://www.facebook.com/mpenkov"
+    },
+    {
+      "team": "プログラム・セッション",
+      "name": "佐藤 昌基",
+      "title": "キーノート、アワード",
+      "twitter": "https://twitter.com/taisa831",
+      "facebook": "https://www.facebook.com/taisa831"
+    },
+    {
+      "team": "プログラム・セッション",
+      "name": "奥田　幸男",
+      "title": "レビュー",
+      "twitter": "https://twitter.com/skiyuki_da",
+      "facebook": "https://www.facebook.com/yukio.okuda.54"
+    },
+    {
+      "team": "プログラム・セッション",
+      "name": "Jonas Obrist",
+      "title": "英語セッションリード",
+      "twitter": "https://twitter.com/ojiidotch",
+      "facebook": ""
+    },
+    {
+      "team": "プログラム・企画",
+      "name": "濱田 侑弥",
+      "title": "Youth Coder Workshop",
+      "twitter": "https://twitter.com/youkidearitai",
+      "facebook": "https://www.facebook.com/youkidearitai.yuya.hamada"
+    },
+    {
+      "team": "プログラム・企画",
+      "name": "西村 ヨシロウ",
+      "title": "ポスターセッション、コミュニティブース、オープンスペース",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "team": "プログラム・企画",
+      "name": "高倉 佑輔",
+      "title": "チュートリアル",
+      "twitter": "https://twitter.com/huideyeren",
+      "facebook": "https://www.facebook.com/iosif.takakura.yusuke"
+    },
+    {
+      "team": "プログラム・企画",
+      "name": "杉本 大輔",
+      "title": "Keynote",
+      "twitter": "https://twitter.com/capdisk",
+      "facebook": "https://www.facebook.com/daisuke.sugimoto2"
+    },
+    {
+      "team": "事務局・スポンサー",
+      "name": "中林 陽介",
+      "title": "",
+      "twitter": "https://twitter.com/elaborateplan",
+      "facebook": "https://www.facebook.com/yosukenakabayashi"
+    },
+    {
+      "team": "事務局・スポンサー",
+      "name": "田中　悠樹",
+      "title": "Sponsor",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/tanayuk"
+    },
+    {
+      "team": "事務局・スポンサー",
+      "name": "斧田 真奈美",
+      "title": "スポンサー",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/manami.onoda.1"
+    },
+    {
+      "team": "事務局・スポンサー",
+      "name": "安立 沙耶佳",
+      "title": "Sponsor(スポンサー側のグッズ周り＆スポンサー全体サポート)",
+      "twitter": "https://twitter.com/posi0202",
+      "facebook": "https://www.facebook.com/sayaka.adachi.posi"
+    },
+    {
+      "team": "事務局・スポンサー",
+      "name": "錦古里彩人",
+      "title": "",
+      "twitter": "https://twitter.com/ayahito2828",
+      "facebook": "https://www.facebook.com/AyatoKinkori"
+    },
+    {
+      "team": "事務局・マーケティング",
+      "name": "陶山 嶺",
+      "title": "Androidアプリ開発",
+      "twitter": "https://twitter.com/rhoboro",
+      "facebook": "https://www.facebook.com/rei.suyama"
+    },
+    {
+      "team": "事務局・マーケティング",
+      "name": "海老原 由夫樹",
+      "title": "",
+      "twitter": "https://twitter.com/silverskyvicto",
+      "facebook": ""
+    },
+    {
+      "team": "事務局・マーケティング",
+      "name": "小林 正彦",
+      "title": "メディア企画",
+      "twitter": "https://twitter.com/donabeno",
+      "facebook": "https://www.facebook.com/kobayashi.masahiko"
+    },
+    {
+      "team": "事務局・マーケティング",
+      "name": "山口 祐子",
+      "title": "メディア対応",
+      "twitter": "https://twitter.com/yukofeb",
+      "facebook": "https://www.facebook.com/yukofeb"
+    },
+    {
+      "team": "事務局・マーケティング",
+      "name": "鈴木 たかのり",
+      "title": "メディア企画",
+      "twitter": "https://twitter.com/takanory",
+      "facebook": "https://www.facebook.com/takanory.net"
+    },
+    {
+      "team": "デザイン・グッズ",
+      "name": "塚本 英成",
+      "title": "デザイナー",
+      "twitter": "https://twitter.com/denari01",
+      "facebook": "https://www.facebook.com/denari01"
+    },
+    {
+      "team": "デザイン・グッズ",
+      "name": "北村 壮大",
+      "title": "デザイン・ヘルプ・参加者管理",
+      "twitter": "https://twitter.com/nasa9084",
+      "facebook": "https://www.facebook.com/nasa9084"
+    },
+    {
+      "team": "デザイン・グッズ",
+      "name": "natsu",
+      "title": "発注周りとか雑用します",
+      "twitter": "https://twitter.com/natsu_bm",
+      "facebook": ""
+    },
+    {
+      "team": "デザイン・グッズ",
+      "name": "山下加奈恵",
+      "title": "",
+      "twitter": "https://twitter.com/Addition_quince",
+      "facebook": ""
+    },
+    {
+      "team": "デザイン・グッズ",
+      "name": "新村絵美",
+      "title": "",
+      "twitter": "https://twitter.com/e_niimura",
+      "facebook": "https://www.facebook.com/emi.niimura.77"
+    },
+    {
+      "team": "会場",
+      "name": "稲葉 一彦",
+      "title": "会場チーム leader",
+      "twitter": "https://twitter.com/inabaKazsansan",
+      "facebook": "https://www.facebook.com/inaba.kazuhiko.94"
+    },
+    {
+      "team": "会場",
+      "name": "入澤 賢",
+      "title": "合宿・食事関連・その他",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/irisawa.masaru"
+    },
+    {
+      "team": "会場",
+      "name": "高品 佑也",
+      "title": "会場(大学)系？",
+      "twitter": "https://twitter.com/takashinayuya",
+      "facebook": "https://www.facebook.com/yuya.takashina.3"
+    },
+    {
+      "team": "会場",
+      "name": "熊田 樹央",
+      "title": "物品関係",
+      "twitter": "https://twitter.com/pana_pana_kuma",
+      "facebook": ""
+    },
+    {
+      "team": "会場",
+      "name": "新宮 隆太",
+      "title": "物品関係",
+      "twitter": "https://twitter.com/h0mirun_deux",
+      "facebook": ""
+    },
+    {
+      "team": "会場",
+      "name": "小山 智之",
+      "title": "物品関係",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "team": "会場",
+      "name": "萩野 孝明",
+      "title": "",
+      "twitter": "https://twitter.com/aki_ae92",
+      "facebook": "https://www.facebook.com/aki.ae92"
+    },
+    {
+      "team": "会場",
+      "name": "高沖 佑輔",
+      "title": "PA・配信",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/yusuke.takaoki.7"
+    },
+    {
+      "team": "NOC(会場タスクチーム)",
+      "name": "満足 亮",
+      "title": "NOC・PA・配信",
+      "twitter": "https://twitter.com/roro0000",
+      "facebook": "https://www.facebook.com/ryo.manzoku"
+    },
+    {
+      "team": "NOC(会場タスクチーム)",
+      "name": "細野 英朋",
+      "title": "NOC・PA・配信",
+      "twitter": "https://twitter.com/h12o",
+      "facebook": "https://www.facebook.com/h12oblessedgeeks"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "橋本 安司",
+      "title": "System leader, Web",
+      "twitter": "https://twitter.com/yellow844",
+      "facebook": "https://www.facebook.com/yasushi.hashimoto.3"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "牟田 裕太郎",
+      "title": "iOS",
+      "twitter": "https://twitter.com/yutailang0119",
+      "facebook": "https://www.facebook.com/muta.yutaro"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "新井 正貴",
+      "title": "Web",
+      "twitter": "https://twitter.com/massa142",
+      "facebook": "https://www.facebook.com/mstk214"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "小松 大輔",
+      "title": "当日撮影",
+      "twitter": "https://twitter.com/vkgtaro",
+      "facebook": "https://www.facebook.com/vkgtaro"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "徳田 拓也",
+      "title": "",
+      "twitter": "https://twitter.com/yCS_Toku",
+      "facebook": "https://www.facebook.com/takuya.tokuda.0122"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "永田 翼",
+      "title": "Web, RejectCon, (会場)",
+      "twitter": "https://twitter.com/wing_ngt",
+      "facebook": "https://www.facebook.com/tsubasa.nagata.94"
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "山田 恵一",
+      "title": "Web,Sponsor,Contentsまとめ",
+      "twitter": "https://twitter.com/keiichi701022",
+      "facebook": ""
+    },
+    {
+      "team": "システム・Webシステム",
+      "name": "横山 直敬",
+      "title": "",
+      "twitter": "https://twitter.com/NaoY_py",
+      "facebook": ""
+    },
+    {
+      "team": "システム・参加者管理",
+      "name": "大村 尚弘",
+      "title": "",
+      "twitter": "https://twitter.com/hisa_x",
+      "facebook": "https://www.facebook.com/hisahiro.omura"
+    },
+    {
+      "team": "システム・参加者管理",
+      "name": "家治 亮",
+      "title": "参加者管理 leader",
+      "twitter": "https://twitter.com/h12o",
+      "facebook": "https://www.facebook.com/h12oblessedgeeks"
+    }
+  ]
+}
