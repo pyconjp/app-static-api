@@ -1,0 +1,340 @@
+{
+  "staffList": [
+    {
+      "team": "Chair",
+      "name": "Yoshida Shunsuke",
+      "title": "Chair",
+      "twitter": "https://twitter.com/koedoyoshida",
+      "facebook": "https://www.facebook.com/koedoyoshida"
+    },
+    {
+      "team": "Program",
+      "name": "Daisuke Saito",
+      "title": "",
+      "twitter": "https://twitter.com/PCShop_kabu",
+      "facebook": "https://www.facebook.com/ds110.sai"
+    },
+    {
+      "team": "Management Office",
+      "name": "Makoto Kimura",
+      "title": "Web, Sponsor,Contents",
+      "twitter": "https://twitter.com/mktkmr4",
+      "facebook": "https://www.facebook.com/makoto.kimura.9406"
+    },
+    {
+      "team": "Management Office",
+      "name": "Manabu TERADA",
+      "title": "",
+      "twitter": "https://twitter.com/terapyon",
+      "facebook": "https://www.facebook.com/terapyon"
+    },
+    {
+      "team": "Program",
+      "name": "Akira Taniguchi",
+      "title": "member",
+      "twitter": "https://twitter.com/horobi_gengar",
+      "facebook": ""
+    },
+    {
+      "team": "Program",
+      "name": "Michael Penkov",
+      "title": "Translator",
+      "twitter": "https://twitter.com/mpenkov",
+      "facebook": "https://www.facebook.com/mpenkov"
+    },
+    {
+      "team": "Program",
+      "name": "Masaki Sato",
+      "title": "",
+      "twitter": "https://twitter.com/taisa831",
+      "facebook": "https://www.facebook.com/taisa831"
+    },
+    {
+      "team": "Program",
+      "name": "Yukio Okuda",
+      "title": "",
+      "twitter": "https://twitter.com/skiyuki_da",
+      "facebook": "https://www.facebook.com/yukio.okuda.54"
+    },
+    {
+      "team": "Program",
+      "name": "Jonas Obrist",
+      "title": "",
+      "twitter": "https://twitter.com/ojiidotch",
+      "facebook": ""
+    },
+    {
+      "team": "Program",
+      "name": "Yuya Hamada",
+      "title": "Youth Coder Workshop",
+      "twitter": "https://twitter.com/youkidearitai",
+      "facebook": "https://www.facebook.com/youkidearitai.yuya.hamada"
+    },
+    {
+      "team": "Program",
+      "name": "Yoshiro Nishimura",
+      "title": "Poster-Session, Community-Booths, Open-Space",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "team": "Program",
+      "name": "Iosif Yusuke Takakura",
+      "title": "",
+      "twitter": "https://twitter.com/huideyeren",
+      "facebook": "https://www.facebook.com/iosif.takakura.yusuke"
+    },
+    {
+      "team": "Program",
+      "name": "Daisuke Sugimoto",
+      "title": "Keynote",
+      "twitter": "https://twitter.com/capdisk",
+      "facebook": "https://www.facebook.com/daisuke.sugimoto2"
+    },
+    {
+      "team": "Management Office",
+      "name": "Yosuke Nakabayasi",
+      "title": "",
+      "twitter": "https://twitter.com/elaborateplan",
+      "facebook": "https://www.facebook.com/yosukenakabayashi"
+    },
+    {
+      "team": "Management Office",
+      "name": "Yuki Tanaka",
+      "title": "",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/tanayuk"
+    },
+    {
+      "team": "Management Office",
+      "name": "Manami onoda",
+      "title": "",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/manami.onoda.1"
+    },
+    {
+      "team": "Management Office",
+      "name": "Sayaka Adachi",
+      "title": "Sponsor",
+      "twitter": "https://twitter.com/posi0202",
+      "facebook": "https://www.facebook.com/sayaka.adachi.posi"
+    },
+    {
+      "team": "Management Office",
+      "name": "Ayato Kinkori",
+      "title": "",
+      "twitter": "https://twitter.com/ayahito2828",
+      "facebook": "https://www.facebook.com/AyatoKinkori"
+    },
+    {
+      "team": "Management Office",
+      "name": "Rei Suyama",
+      "title": "Marketing/Android",
+      "twitter": "https://twitter.com/rhoboro",
+      "facebook": "https://www.facebook.com/rei.suyama"
+    },
+    {
+      "team": "Management Office",
+      "name": "Yuuki Ebihara",
+      "title": "",
+      "twitter": "https://twitter.com/silverskyvicto",
+      "facebook": ""
+    },
+    {
+      "team": "Management Office",
+      "name": "Masahiko Kobayashi",
+      "title": "Media event planning",
+      "twitter": "https://twitter.com/donabeno",
+      "facebook": "https://www.facebook.com/kobayashi.masahiko"
+    },
+    {
+      "team": "Management Office",
+      "name": "Yuko Yamaguchi",
+      "title": "Media Relations",
+      "twitter": "https://twitter.com/yukofeb",
+      "facebook": "https://www.facebook.com/yukofeb"
+    },
+    {
+      "team": "Management Office",
+      "name": "Takanori Suzuki",
+      "title": "Media event planning",
+      "twitter": "https://twitter.com/takanory",
+      "facebook": "https://www.facebook.com/takanory.net"
+    },
+    {
+      "team": "Design,Goods",
+      "name": "Hidenari Tsukamoto",
+      "title": "Designer",
+      "twitter": "https://twitter.com/denari01",
+      "facebook": "https://www.facebook.com/denari01"
+    },
+    {
+      "team": "Design,Goods",
+      "name": "Masahiro Kitamura",
+      "title": "Designer",
+      "twitter": "https://twitter.com/nasa9084",
+      "facebook": "https://www.facebook.com/nasa9084"
+    },
+    {
+      "team": "Design,Goods",
+      "name": "natsu",
+      "title": "",
+      "twitter": "https://twitter.com/natsu_bm",
+      "facebook": ""
+    },
+    {
+      "team": "Design,Goods",
+      "name": "Kanae Yamashita",
+      "title": "",
+      "twitter": "https://twitter.com/Addition_quince",
+      "facebook": ""
+    },
+    {
+      "team": "Design,Goods",
+      "name": "Emi Niimura",
+      "title": "Designer",
+      "twitter": "https://twitter.com/e_niimura",
+      "facebook": "https://www.facebook.com/emi.niimura.77"
+    },
+    {
+      "team": "Venue",
+      "name": "Kazuhiko Inaba",
+      "title": "Various",
+      "twitter": "https://twitter.com/inabaKazsansan",
+      "facebook": "https://www.facebook.com/inaba.kazuhiko.94"
+    },
+    {
+      "team": "Venue",
+      "name": "Masaru Irisawa",
+      "title": "",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/irisawa.masaru"
+    },
+    {
+      "team": "Venue",
+      "name": "Yuya Takashina",
+      "title": "",
+      "twitter": "https://twitter.com/takashinayuya",
+      "facebook": "https://www.facebook.com/yuya.takashina.3"
+    },
+    {
+      "team": "Venue",
+      "name": "Juo Kumada",
+      "title": "",
+      "twitter": "https://twitter.com/pana_pana_kuma",
+      "facebook": ""
+    },
+    {
+      "team": "Venue",
+      "name": "Ryuta Shingu",
+      "title": "",
+      "twitter": "https://twitter.com/h0mirun_deux",
+      "facebook": ""
+    },
+    {
+      "team": "Venue",
+      "name": "Tomoyuki Koyama",
+      "title": "",
+      "twitter": "",
+      "facebook": ""
+    },
+    {
+      "team": "Venue",
+      "name": "Takaaki Hagino",
+      "title": "",
+      "twitter": "https://twitter.com/aki_ae92",
+      "facebook": "https://www.facebook.com/aki.ae92"
+    },
+    {
+      "team": "Venue",
+      "name": "Yusuke Takaoki",
+      "title": "",
+      "twitter": "",
+      "facebook": "https://www.facebook.com/yusuke.takaoki.7"
+    },
+    {
+      "team": "NOC",
+      "name": "Ryo Manzoku",
+      "title": "",
+      "twitter": "https://twitter.com/roro0000",
+      "facebook": "https://www.facebook.com/ryo.manzoku"
+    },
+    {
+      "team": "NOC",
+      "name": "Hidetomo Hosono",
+      "title": "",
+      "twitter": "https://twitter.com/h12o",
+      "facebook": "https://www.facebook.com/h12oblessedgeeks"
+    },
+    {
+      "team": "System",
+      "name": "Yasushi HASHIMOTO",
+      "title": "Web, Youth corder, System Leader",
+      "twitter": "https://twitter.com/yellow844",
+      "facebook": "https://www.facebook.com/yasushi.hashimoto.3"
+    },
+    {
+      "team": "System",
+      "name": "Yutaro Muta",
+      "title": "iOS App Developer",
+      "twitter": "https://twitter.com/yutailang0119",
+      "facebook": "https://www.facebook.com/muta.yutaro"
+    },
+    {
+      "team": "System",
+      "name": "Masataka Arai",
+      "title": "Web, Reject Conference",
+      "twitter": "https://twitter.com/massa142",
+      "facebook": "https://www.facebook.com/mstk214"
+    },
+    {
+      "team": "System",
+      "name": "Daisuke Komatsu",
+      "title": "Photographer",
+      "twitter": "https://twitter.com/vkgtaro",
+      "facebook": "https://www.facebook.com/vkgtaro"
+    },
+    {
+      "team": "System",
+      "name": "Takuya Tokuda",
+      "title": "",
+      "twitter": "https://twitter.com/yCS_Toku",
+      "facebook": "https://www.facebook.com/takuya.tokuda.0122"
+    },
+    {
+      "team": "System",
+      "name": "Tsubasa NAGATA",
+      "title": "",
+      "twitter": "https://twitter.com/wing_ngt",
+      "facebook": "https://www.facebook.com/tsubasa.nagata.94"
+    },
+    {
+      "team": "System",
+      "name": "Keiichi Yamada",
+      "title": "",
+      "twitter": "https://twitter.com/keiichi701022",
+      "facebook": ""
+    },
+    {
+      "team": "System",
+      "name": "Naotaka Yokoyama",
+      "title": "",
+      "twitter": "https://twitter.com/NaoY_py",
+      "facebook": ""
+    },
+    {
+      "team": "System",
+      "name": "Hisahiro Ohmura",
+      "title": "",
+      "twitter": "https://twitter.com/hisa_x",
+      "facebook": "https://www.facebook.com/hisahiro.omura"
+    },
+    {
+      "team": "System",
+      "name": "Ryo Kaji",
+      "title": "",
+      "twitter": "https://twitter.com/h12o",
+      "facebook": "https://www.facebook.com/h12oblessedgeeks"
+    }
+  ]
+}
